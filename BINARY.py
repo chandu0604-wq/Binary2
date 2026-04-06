@@ -76,7 +76,7 @@
     
 #     return ans
 # arr=list(map(int,input("Enter the num: ").split()))
-# x=int(input("Enter num: "))
+# x=int(input("Enter num: ")) 
 
 # result=Last_occ(arr,x)
 # print(result)

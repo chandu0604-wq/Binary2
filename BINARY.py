@@ -1,7 +1,7 @@
 # # BASIC BINARY 
 
 # def binary_search(arr, target):
-#     l=0
+#     l=0 
 #     r=len(arr)-1
 
 #     while l<=r:   

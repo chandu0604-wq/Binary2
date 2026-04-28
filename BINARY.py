@@ -1,6 +1,6 @@
 # # BASIC BINARY 
 
-# def binary_search(arr, target):
+# def binary_search(arr, target): 
 #     l=0 
 #     r=len(arr)-1
 
